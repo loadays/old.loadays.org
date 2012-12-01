@@ -1,1 +1,0 @@
-Loadays.org static website
