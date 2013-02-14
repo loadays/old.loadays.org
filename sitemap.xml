@@ -5,60 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/index.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/archives.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tags.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/categories.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -72,66 +40,33 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/pages/cfp-info.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/faq.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/schedule.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/where.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
 <loc>http://www.loadays.org/call_for_sponsors.html</loc>
 <lastmod>2013-01-29T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -139,8 +74,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-=======
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
 <loc>http://www.loadays.org/Post number 2.html</loc>
 <lastmod>2012-11-30T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -156,56 +89,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/category/misc.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/featured.html</loc>
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/loadays.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/author/loadays-crew.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T21:52:17-00:00</lastmod>
-=======
-<lastmod>2013-02-12T00:25:22-00:00</lastmod>
->>>>>>> b7fa15c3546526f09f5d9a843fa32a8d8b9989eb
-=======
-<lastmod>2013-02-14T22:05:06-00:00</lastmod>
->>>>>>> master
+<lastmod>2013-02-14T22:19:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
