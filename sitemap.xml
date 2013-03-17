@@ -5,136 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/index.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/archives.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tags.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/categories.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -148,129 +40,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/pages/call-for-presentation.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-<<<<<<< HEAD
->>>>>>> master
-=======
-<loc>http://www.loadays.org/pages/call-for-presentation.html</loc>
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/faq.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/schedule.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/where.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
@@ -305,136 +96,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.loadays.org/category/misc.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/featured.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/tag/loadays.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/author/loadays-crew.html</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lastmod>2013-02-14T22:19:34-00:00</lastmod>
-=======
-<lastmod>2013-02-17T22:37:41-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-06T17:28:20-00:00</lastmod>
->>>>>>> da14799b5892d04255bd27c4e165d39345ccd93e
-=======
-<lastmod>2013-03-09T13:29:14-00:00</lastmod>
-=======
-<lastmod>2013-02-27T16:58:35-00:00</lastmod>
->>>>>>> c03016f648f35a53c3cbc9d4d537b6d65d09d4a2
->>>>>>> master
-=======
-<lastmod>2013-03-17T21:56:38-00:00</lastmod>
->>>>>>> master
-=======
-<lastmod>2013-03-14T13:59:30-00:00</lastmod>
->>>>>>> 8a15f41dfcdba6d17143633f903ec0a0576207fd
+<lastmod>2013-03-17T22:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
