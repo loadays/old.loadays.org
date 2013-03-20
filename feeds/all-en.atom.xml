@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>LOADays</title><link href="http://www.loadays.org/" rel="alternate"></link><link href="http://www.loadays.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.loadays.org/</id><updated>2013-02-28T00:00:00+01:00</updated><entry><title>Call-for-Presentation</title><link href="http://www.loadays.org/call-for-presentation-2.html" rel="alternate"></link><updated>2013-02-28T00:00:00+01:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2013-02-28:call-for-presentation-2.html</id><summary type="html">&lt;p&gt;The CfP is open until &lt;strong&gt;12th of March&lt;/strong&gt;, please use on of the following method to submit proposals.  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LOADays</title><link href="http://www.loadays.org/" rel="alternate"></link><link href="http://www.loadays.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.loadays.org/</id><updated>2013-03-18T00:00:00+01:00</updated><entry><title>CentOS Dojo Antwerp 2013</title><link href="http://www.loadays.org/centos-dojo-antwerp-2013.html" rel="alternate"></link><updated>2013-03-18T00:00:00+01:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2013-03-18:centos-dojo-antwerp-2013.html</id><summary type="html">&lt;p&gt;This year we are proud to announce the colocation event of &lt;strong&gt;CentOS Dojo Antwerp 2013&lt;/strong&gt;.&lt;br /&gt;
+&lt;strong&gt;Monday 8th of April 2013&lt;/strong&gt;, just after LOADays 2013, the first CentOS Dojo will be held at the same venue.&lt;br /&gt;
+For more information please look on &lt;a href="http://wiki.centos.org/Events/Dojo/Antwerp2013"&gt;http://wiki.centos.org/Events/Dojo/Antwerp2013&lt;/a&gt;&lt;br /&gt;
+For registration go to the EventBrite page at &lt;a href="http://centosdojoantwerp2013.eventbrite.com/"&gt;http://centosdojoantwerp2013.eventbrite.com/&lt;/a&gt;  &lt;/p&gt;</summary><category term="featured"></category></entry><entry><title>Call-for-Presentation</title><link href="http://www.loadays.org/call-for-presentation-2.html" rel="alternate"></link><updated>2013-02-28T00:00:00+01:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2013-02-28:call-for-presentation-2.html</id><summary type="html">&lt;p&gt;The CfP is open until &lt;strong&gt;12th of March&lt;/strong&gt;, please use on of the following method to submit proposals.  &lt;/p&gt;
 &lt;h2 id="mail"&gt;Mail&lt;/h2&gt;
 &lt;p&gt;Send your proposal to &lt;a href="mailto:cfp@loadays.org"&gt;cfp@loadays.org&lt;/a&gt; with following info :&lt;/p&gt;
 &lt;ul&gt;
@@ -22,4 +25,31 @@
 &lt;/ul&gt;
 &lt;p&gt;If your company wants to sponsor this event, send us your details, logo and sponsor level to info@loadays.org&lt;/p&gt;</summary><category term="loadays"></category></entry><entry><title>LOAD2013 CFP</title><link href="http://www.loadays.org/Post%20number%202.html" rel="alternate"></link><updated>2012-11-30T00:00:00+01:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2012-11-30:Post number 2.html</id><summary type="html">&lt;p&gt;After a successful third edition of LOAD, the crew decided to organize a fourth edition.&lt;/p&gt;
 &lt;p&gt;You are invited to submit a proposal to participate in the 2013 Linux Open Administration Days in Wilrijk, Belgium on &lt;strong&gt;April 6&lt;/strong&gt; and &lt;strong&gt;7th  2013&lt;/strong&gt;. The CFP is open until 12th of March&lt;/p&gt;
-&lt;p&gt;More info about how to submit your proposal can be found &lt;a href="http://loadays.org/pages/cfp-info.html"&gt;here&lt;/a&gt;&lt;/p&gt;</summary><category term="featured"></category></entry><entry><title>Loadays is a GO</title><link href="http://www.loadays.org/Loadays%202013%20is%20a%20GO!.html" rel="alternate"></link><updated>2012-10-08T00:00:00+02:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2012-10-08:Loadays 2013 is a GO!.html</id><summary type="html">&lt;p&gt;LOAD2013 is a GO!&lt;/p&gt;</summary><category term="loadays"></category></entry></feed>
+&lt;p&gt;More info about how to submit your proposal can be found &lt;a href="http://loadays.org/pages/cfp-info.html"&gt;here&lt;/a&gt;&lt;/p&gt;</summary><category term="featured"></category></entry><entry><title>Loadays is a GO</title><link href="http://www.loadays.org/Loadays%202013%20is%20a%20GO!.html" rel="alternate"></link><updated>2012-10-08T00:00:00+02:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2012-10-08:Loadays 2013 is a GO!.html</id><summary type="html">&lt;p&gt;LOAD2013 is a GO!&lt;/p&gt;</summary><category term="loadays"></category></entry><entry><title>Tutorial about provisioning and management using Ansible</title><link href="http://www.loadays.org/tutorial-about-provisioning-and-management-using-ansible.html" rel="alternate"></link><updated>2012-10-08T00:00:00+02:00</updated><author><name>Loadays Crew</name></author><id>tag:www.loadays.org,2012-10-08:tutorial-about-provisioning-and-management-using-ansible.html</id><summary type="html">&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;About every year new tools for systems management are being released that fill a certain niche, or exploit the possibilities of configuration management by using yet another implemlentation language or a single compelling feature. And from a cynical point-of-view, Ansible is not different. However the design principles behind Ansible make it an exciting new alternative that simplifies and redefines systems management.&lt;/p&gt;
+&lt;p&gt;Key features of Ansible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;modular design&lt;/li&gt;
+&lt;li&gt;requires no agent, uses SSH (or zeromq)&lt;/li&gt;
+&lt;li&gt;requires no PKI infrastructure&lt;/li&gt;
+&lt;li&gt;multi-tier orechestration&lt;/li&gt;
+&lt;li&gt;dead simple&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This tutorial will highlight the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Ansible concepts&lt;/li&gt;
+&lt;li&gt;Inventories, Facts, Playbooks, Modules, Plugins&lt;/li&gt;
+&lt;li&gt;Using Ansible for systems management&lt;/li&gt;
+&lt;li&gt;Running commands in parallel&lt;/li&gt;
+&lt;li&gt;Automate using playbooks&lt;/li&gt;
+&lt;li&gt;Reporting using Ansible API&lt;/li&gt;
+&lt;li&gt;Using Ansible for orchestration&lt;/li&gt;
+&lt;li&gt;Creating advanced playbooks&lt;/li&gt;
+&lt;li&gt;Using Ansible for provisioning&lt;/li&gt;
+&lt;li&gt;Integration with EC2, vSphere, KVM or RHEV&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="speaker"&gt;Speaker&lt;/h2&gt;
+&lt;p&gt;Dag Wieers &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#100;&amp;#97;&amp;#103;&amp;#64;&amp;#119;&amp;#105;&amp;#101;&amp;#101;&amp;#114;&amp;#115;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#100;&amp;#97;&amp;#103;&amp;#64;&amp;#119;&amp;#105;&amp;#101;&amp;#101;&amp;#114;&amp;#115;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;
+Jeroen Hoekx &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#106;&amp;#101;&amp;#114;&amp;#111;&amp;#101;&amp;#110;&amp;#64;&amp;#104;&amp;#111;&amp;#101;&amp;#107;&amp;#120;&amp;#46;&amp;#98;&amp;#101;"&gt;&amp;#106;&amp;#101;&amp;#114;&amp;#111;&amp;#101;&amp;#110;&amp;#64;&amp;#104;&amp;#111;&amp;#101;&amp;#107;&amp;#120;&amp;#46;&amp;#98;&amp;#101;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="slides"&gt;Slides&lt;/h2&gt;
+&lt;p&gt;will be added after talk&lt;/p&gt;</summary></entry></feed>
