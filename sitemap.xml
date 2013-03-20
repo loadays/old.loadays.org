@@ -7,6 +7,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/index.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -14,6 +15,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -22,6 +26,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/archives.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -29,6 +34,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -37,6 +45,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/tags.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -44,6 +53,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -52,6 +64,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/categories.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -59,6 +72,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -72,6 +88,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <loc>http://www.loadays.org/pages/call-for-presentation.html</loc>
 <<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
@@ -82,11 +99,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/pages/faq.html</loc>
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<loc>http://www.loadays.org/pages/faq.html</loc>
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <loc>http://www.loadays.org/pages/faq.html</loc>
 <<<<<<< HEAD
@@ -98,11 +120,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/pages/schedule.html</loc>
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<loc>http://www.loadays.org/pages/schedule.html</loc>
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <loc>http://www.loadays.org/pages/schedule.html</loc>
 <<<<<<< HEAD
@@ -114,12 +141,17 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/pages/talks.html</loc>
 <lastmod>2013-03-19T00:00:00-00:00</lastmod>
 >>>>>>> master
+=======
+<loc>http://www.loadays.org/pages/talks.html</loc>
+<lastmod>2013-03-19T00:00:00-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
 <loc>http://www.loadays.org/pages/where.html</loc>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
@@ -129,6 +161,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
@@ -179,6 +214,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/category/misc.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -193,6 +229,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/category/talks.html</loc>
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -201,6 +240,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/tag/featured.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -208,6 +248,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -216,6 +259,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/tag/loadays.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -223,6 +267,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -231,6 +278,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://www.loadays.org/author/loadays-crew.html</loc>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lastmod>2013-03-17T22:04:08-00:00</lastmod>
 =======
 <lastmod>2013-03-17T22:11:09-00:00</lastmod>
@@ -238,6 +286,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 =======
 <lastmod>2013-03-20T08:02:16-00:00</lastmod>
 >>>>>>> master
+=======
+<lastmod>2013-03-19T09:00:32-00:00</lastmod>
+>>>>>>> e0bb9a48a3b1f65b0872682ab95ab04688bc3cde
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
