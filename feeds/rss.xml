@@ -1,55 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LOADays</title><link>http://www.loadays.org/</link><description></description><atom:link href="http://www.loadays.org/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 18 Mar 2013 00:00:00 +0100</lastBuildDate><item><title>CentOS Dojo Antwerp 2013</title><link>http://www.loadays.org/centos-dojo-antwerp-2013.html</link><description>&lt;p&gt;This year we are proud to announce the colocation event of &lt;strong&gt;CentOS Dojo Antwerp 2013&lt;/strong&gt;.&lt;br /&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LOADays</title><link>http://www.loadays.org/</link><description></description><atom:link href="http://www.loadays.org/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 20 Mar 2013 00:00:00 +0100</lastBuildDate><item><title>LPI at Loadays</title><link>http://www.loadays.org/lpi-at-loadays.html</link><description>&lt;p&gt;Like the years before Linux Professional Institute (LPI) want's to offer PBT LPI exams at
+loadays.&lt;/p&gt;
+&lt;p&gt;LPI Certifications are globaly accepted certifications that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed by a community of Linux professionals, volunteers, vendors
+  and educators&lt;/li&gt;
+&lt;li&gt;Challenging: if you don't know the subjects you won't pass&lt;/li&gt;
+&lt;li&gt;Accessible and available at thousands of test centres around the world
+  or at special events&lt;/li&gt;
+&lt;li&gt;Of high quality: relying on critical input from numerous Linux experts
+  and employing scientific and industry-recognized psychometric
+  processes&lt;/li&gt;
+&lt;li&gt;Distribution-neutral: verifying knowledge on any standard Linux system&lt;/li&gt;
+&lt;li&gt;Relevant: surveying thousands to determine the skills that need to be
+  tested&lt;/li&gt;
+&lt;li&gt;Supported and sponsored by a large number of Linux companies and
+  projects&lt;/li&gt;
+&lt;li&gt;A certification the Linux community can respect and be proud of&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At loadays we want to offer certification for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux Essentials (€ 50,-)&lt;/li&gt;
+&lt;li&gt;LPI 101, 102 (€ 90,-)&lt;/li&gt;
+&lt;li&gt;LPI 201, 202 (€ 90,-)&lt;/li&gt;
+&lt;li&gt;LPI 301 (€150,-)&lt;/li&gt;
+&lt;li&gt;LPI 302, 303, 304 (€90,-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Registration is possible using this link:
+  &lt;a href="https://lpievent.lpice.eu/index.php"&gt;https://lpievent.lpice.eu&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Wed, 20 Mar 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-03-20:lpi-at-loadays.html</guid></item><item><title>Talks</title><link>http://www.loadays.org/talks.html</link><description>&lt;p&gt;We've already got confirmation an interresting number of talks ..
+more will come when they have been confirmed in the next couple of days.&lt;/p&gt;
+&lt;p&gt;We are also still working on the actual schedule.&lt;/p&gt;
+&lt;h2 id="talks"&gt;Talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Being a Sysadmin at a company full of Sysadmins&lt;/strong&gt; (Cody Herriges) &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenNebula Fundamentals&lt;/strong&gt; (Jaime Melis)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrate UEFI into REAR&lt;/strong&gt; (Gratien D'haese)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Puppet v3 and Hiera&lt;/strong&gt; (Garrett Honeycutt)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrating Linux into an Active Directory domain&lt;/strong&gt; (Gábor Nyers)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Normalised instance provisioning for dev, on-premise and public clouds&lt;/strong&gt; (Karanbir Singh)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C.R.E.A.M : Cache Rules Everything Around Me&lt;/strong&gt; (Thijs Feryn)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenLDAP's Lightning Memory-Mapped DB&lt;/strong&gt; (Howard Chu)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What's new in syslog-ng&lt;/strong&gt; (Peter Czanik)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Ansible&lt;/strong&gt; (Jan Piet Mens)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network Block Device: network-based block storage for Linux systems&lt;/strong&gt; (Wouter Verhelst)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bigger data in postgres 9.2&lt;/strong&gt; (Bert Desmet)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chef + Rails for customer cloud control&lt;/strong&gt; (Steven - Joren)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tutorials"&gt;Tutorials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Building your Enterprise Cloud with OpenNebula&lt;/strong&gt; (Jaime Melis)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Puppet tutorial&lt;/strong&gt; (Garrett Honeycutt)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated Everything - Setting up an openQRM Cloud&lt;/strong&gt; (Matthias Rechenburg)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorial about provisioning and management using Ansible&lt;/strong&gt; (Dag Wieers - Jeroen Hoekx)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Tue, 19 Mar 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-03-19:talks.html</guid></item><item><title>CentOS Dojo Antwerp 2013</title><link>http://www.loadays.org/centos-dojo-antwerp-2013.html</link><description>&lt;p&gt;This year we are proud to announce the colocation event of &lt;strong&gt;CentOS Dojo Antwerp 2013&lt;/strong&gt;.&lt;br /&gt;
 &lt;strong&gt;Monday 8th of April 2013&lt;/strong&gt;, just after LOADays 2013, the first CentOS Dojo will be held at the same venue.&lt;br /&gt;
 For more information please look on &lt;a href="http://wiki.centos.org/Events/Dojo/Antwerp2013"&gt;http://wiki.centos.org/Events/Dojo/Antwerp2013&lt;/a&gt;&lt;br /&gt;
-For registration go to the EventBrite page at &lt;a href="http://centosdojoantwerp2013.eventbrite.com/"&gt;http://centosdojoantwerp2013.eventbrite.com/&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 18 Mar 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-03-18:centos-dojo-antwerp-2013.html</guid><category>featured</category></item><item><title>Call-for-Presentation</title><link>http://www.loadays.org/call-for-presentation-2.html</link><description>&lt;p&gt;The CfP is open until &lt;strong&gt;12th of March&lt;/strong&gt;, please use on of the following method to submit proposals.  &lt;/p&gt;
-&lt;h2 id="mail"&gt;Mail&lt;/h2&gt;
-&lt;p&gt;Send your proposal to &lt;a href="mailto:cfp@loadays.org"&gt;cfp@loadays.org&lt;/a&gt; with following info :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;title of your talk&lt;/li&gt;
-&lt;li&gt;abstract&lt;/li&gt;
-&lt;li&gt;some info about yourself&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="github"&gt;Github&lt;/h2&gt;
-&lt;p&gt;Using a Pull request by following the next steps :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fork this site or the pelican-site repo at &lt;a href="https://github.com/loadays/pelican-site"&gt;https://github.com/loadays/pelican-site&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Add your proposal to the content/proposals dir.  &lt;/li&gt;
-&lt;li&gt;Send us a Pull Request.&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Thu, 28 Feb 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-02-28:call-for-presentation-2.html</guid><category>featured</category></item><item><title>LOAD2013 Call for sponsors</title><link>http://www.loadays.org/call_for_sponsors.html</link><description>&lt;p&gt;For this edition we are again looking for sponsors to make this event happen. The budget is solely used to accommodate speakers, infrastructure, provide food at affordable prices, etc..&lt;/p&gt;
-&lt;p&gt;Levels of sponsorship :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Bronze (250€)&lt;/em&gt; : small logo on the website&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Silver (500€)&lt;/em&gt; : logo on the website and mentioned on mailings to visitors and speakers  &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gold (750€ +)&lt;/em&gt; : Full visibility (logo on website, printed materials) and the ability to speak about your company for 5 minutes at the start of the conference&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If your company wants to sponsor this event, send us your details, logo and sponsor level to info@loadays.org&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Tue, 29 Jan 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-01-29:call_for_sponsors.html</guid><category>loadays</category></item><item><title>LOAD2013 CFP</title><link>http://www.loadays.org/Post%20number%202.html</link><description>&lt;p&gt;After a successful third edition of LOAD, the crew decided to organize a fourth edition.&lt;/p&gt;
+For registration go to the EventBrite page at &lt;a href="http://centosdojoantwerp2013.eventbrite.com/"&gt;http://centosdojoantwerp2013.eventbrite.com/&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 18 Mar 2013 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2013-03-18:centos-dojo-antwerp-2013.html</guid><category>featured</category></item><item><title>LOAD2013 CFP</title><link>http://www.loadays.org/Post%20number%202.html</link><description>&lt;p&gt;After a successful third edition of LOAD, the crew decided to organize a fourth edition.&lt;/p&gt;
 &lt;p&gt;You are invited to submit a proposal to participate in the 2013 Linux Open Administration Days in Wilrijk, Belgium on &lt;strong&gt;April 6&lt;/strong&gt; and &lt;strong&gt;7th  2013&lt;/strong&gt;. The CFP is open until 12th of March&lt;/p&gt;
-&lt;p&gt;More info about how to submit your proposal can be found &lt;a href="http://loadays.org/pages/cfp-info.html"&gt;here&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Fri, 30 Nov 2012 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2012-11-30:Post number 2.html</guid><category>featured</category></item><item><title>Loadays is a GO</title><link>http://www.loadays.org/Loadays%202013%20is%20a%20GO!.html</link><description>&lt;p&gt;LOAD2013 is a GO!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 08 Oct 2012 00:00:00 +0200</pubDate><guid>tag:www.loadays.org,2012-10-08:Loadays 2013 is a GO!.html</guid><category>loadays</category></item><item><title>Tutorial about provisioning and management using Ansible</title><link>http://www.loadays.org/tutorial-about-provisioning-and-management-using-ansible.html</link><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;About every year new tools for systems management are being released that fill a certain niche, or exploit the possibilities of configuration management by using yet another implemlentation language or a single compelling feature. And from a cynical point-of-view, Ansible is not different. However the design principles behind Ansible make it an exciting new alternative that simplifies and redefines systems management.&lt;/p&gt;
-&lt;p&gt;Key features of Ansible:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;modular design&lt;/li&gt;
-&lt;li&gt;requires no agent, uses SSH (or zeromq)&lt;/li&gt;
-&lt;li&gt;requires no PKI infrastructure&lt;/li&gt;
-&lt;li&gt;multi-tier orechestration&lt;/li&gt;
-&lt;li&gt;dead simple&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This tutorial will highlight the following topics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduction to Ansible concepts&lt;/li&gt;
-&lt;li&gt;Inventories, Facts, Playbooks, Modules, Plugins&lt;/li&gt;
-&lt;li&gt;Using Ansible for systems management&lt;/li&gt;
-&lt;li&gt;Running commands in parallel&lt;/li&gt;
-&lt;li&gt;Automate using playbooks&lt;/li&gt;
-&lt;li&gt;Reporting using Ansible API&lt;/li&gt;
-&lt;li&gt;Using Ansible for orchestration&lt;/li&gt;
-&lt;li&gt;Creating advanced playbooks&lt;/li&gt;
-&lt;li&gt;Using Ansible for provisioning&lt;/li&gt;
-&lt;li&gt;Integration with EC2, vSphere, KVM or RHEV&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="speaker"&gt;Speaker&lt;/h2&gt;
-&lt;p&gt;Dag Wieers &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#100;&amp;#97;&amp;#103;&amp;#64;&amp;#119;&amp;#105;&amp;#101;&amp;#101;&amp;#114;&amp;#115;&amp;#46;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#100;&amp;#97;&amp;#103;&amp;#64;&amp;#119;&amp;#105;&amp;#101;&amp;#101;&amp;#114;&amp;#115;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;
-Jeroen Hoekx &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#106;&amp;#101;&amp;#114;&amp;#111;&amp;#101;&amp;#110;&amp;#64;&amp;#104;&amp;#111;&amp;#101;&amp;#107;&amp;#120;&amp;#46;&amp;#98;&amp;#101;"&gt;&amp;#106;&amp;#101;&amp;#114;&amp;#111;&amp;#101;&amp;#110;&amp;#64;&amp;#104;&amp;#111;&amp;#101;&amp;#107;&amp;#120;&amp;#46;&amp;#98;&amp;#101;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="slides"&gt;Slides&lt;/h2&gt;
-&lt;p&gt;will be added after talk&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 08 Oct 2012 00:00:00 +0200</pubDate><guid>tag:www.loadays.org,2012-10-08:tutorial-about-provisioning-and-management-using-ansible.html</guid></item></channel></rss>
+&lt;p&gt;More info about how to submit your proposal can be found &lt;a href="http://loadays.org/pages/cfp-info.html"&gt;here&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Fri, 30 Nov 2012 00:00:00 +0100</pubDate><guid>tag:www.loadays.org,2012-11-30:Post number 2.html</guid><category>featured</category></item><item><title>Loadays is a GO</title><link>http://www.loadays.org/Loadays%202013%20is%20a%20GO!.html</link><description>&lt;p&gt;LOAD2013 is a GO!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Mon, 08 Oct 2012 00:00:00 +0200</pubDate><guid>tag:www.loadays.org,2012-10-08:Loadays 2013 is a GO!.html</guid><category>loadays</category></item></channel></rss>
