@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>LOADays</title>
+        <title>What's New in OpenLDAP</title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
         <link href="/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="LOADays RSS Feed" />
@@ -59,9 +59,21 @@
         </ul>
     </div><!-- /.sponsors-bronze -->
 
-</div><ul>
-    <li><a href="/category/posts.html">posts</a></li>
-</ul>
+</div>        
+<div id="container">
+<section id="content" class="body">    
+    <h1 class="entry-title">What's New in OpenLDAP</h1>
+    <h1 id="abstract">abstract</h1>
+<p>The Lightning Memory-Mapped Database was introduced at the previous LDAPCon and has been enjoying tremendous success in the intervening two years.  The success of LMDB has led down many different paths:</p>
+<ol>
+<li>Use of LMDB eliminated bottlenecks at the database level but revealed the presence of other bottlenecks in the slapd code. Recently a number of these other bottlenecks have also been removed, yielding even greater performance gains.</li>
+<li>LMDB has proved to be a superior database engine for many other projects and uses, and its adoption outside the OpenLDAP Project continues to grow.</li>
+<li>Use of LMDB in NoSQL projects like HyperDex presents us with the opportunity to again address horizontal scaling, replacing the previous work on back-ndb with a clustered backend that uses OpenLDAP technology at both the highest and lowest layers of the solution.</li>
+</ol>
+<p>The talk will discuss some of the internal improvements in slapd due to LMDB, as well as the impact of LMDB on other projects. Also the new HyperDex backend will be presented, as well as new interoperability work with Samba.</p>
+</section>
+</div>
+<div id="sponsors"></div>
 	</div>
  	
         <section id="extras" class="body">

@@ -34,8 +34,9 @@ body {
 }
 
 .sponsors {
-	width: 200px;
+	width: 250px;
 	float: right;
+  margin-top: 50px;
 }
 .sponsors h2 {
 	color: white;
@@ -198,7 +199,8 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 40pt auto; width: 800px;}
+/*.body {clear: both; margin: 40pt auto; width: 800px;}*/
+.body {margin: 40pt auto; width: 800px;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -284,7 +286,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 1em;
 	/*overflow: hidden;*/
 	padding: 20px;
-	width: 760px;
+	/*width: 760px;*/
+	width: 500px;
 	float: left;
 	
 	border-radius: 10px;
