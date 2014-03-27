@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LOADays</title><link>/</link><description></description><atom:link href="/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 23 Mar 2014 00:00:00 +0100</lastBuildDate><item><title>Build your OpenNebula Cloud Day</title><link>/opennebula_cloud_day.html</link><description>&lt;p&gt;After LOADays, on Monday 07/04/2014, we organize a tutorial and image session for OpenNebula.&lt;br /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LOADays</title><link>/</link><description></description><atom:link href="/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 27 Mar 2014 00:00:00 +0100</lastBuildDate><item><title>Provisional schedula</title><link>/loadays_schedule.html</link><description>&lt;p&gt;We have got a provisional schedule online. Check it out :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://loadays.org/pages/schedule-temp.html"&gt;Loadays 2014 schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;notice: the schedule is still subject to change.&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loadays Crew</dc:creator><pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate><guid>tag:,2014-03-27:loadays_schedule.html</guid><category>loadays</category></item><item><title>Build your OpenNebula Cloud Day</title><link>/opennebula_cloud_day.html</link><description>&lt;p&gt;After LOADays, on Monday 07/04/2014, we organize a tutorial and image session for OpenNebula.&lt;br /&gt;
 This is a free event, we recommend to register as seats are limited and we want to anticipate the number of participants.&lt;/p&gt;
 &lt;h1 id="schedule"&gt;SCHEDULE&lt;/h1&gt;
 &lt;table&gt;
