@@ -78,22 +78,29 @@
 <p>To achieve its magic, Vagrant stands on the shoulders of giants. Machines are provisioned on top of VirtualBox, VMware, AWS, or any other provider. Then, industry-standard provisioning tools such as shell scripts, Chef, or Puppet, can be used to automatically install and configure software on the machine.</p>
 <p>This tutorial will highlight the following topics</p>
 <ul>
-<li>Introduction to Vagrant, setting up a new box</li>
+<li>Introduction to Vagrant</li>
+<li>Setting up boxes, finding and using base boxes</li>
 <li>Configuring Vagrant boxes (Vagrantfile)</li>
-<li>Provisioning Vagrant boxes<ul>
+<li>Provisioning<ul>
+<li>Shell</li>
 <li>Puppet</li>
 <li>Ansible</li>
 </ul>
 </li>
 <li>Tips and tricks</li>
-<li>Getting base boxes</li>
 <li>Creating custom base boxes with Packer</li>
 </ul>
 <p>If you want to follow along, it's highly recommended to have following software installed in advance:</p>
 <ul>
-<li>VirtualBox - https://www.virtualbox.org/</li>
-<li>Vagrant - http://www.vagrantup.com/</li>
-<li>Download this CentOS base box: http://packages.vstone.eu/vagrant-boxes/centos-6.x-64bit-latest.box</li>
+<li>Git</li>
+<li>VirtualBox (4.3.x) - https://www.virtualbox.org/</li>
+<li>Vagrant (1.5.x) - http://www.vagrantup.com/</li>
+<li>Initialise the base box 'alphainternational/centos-6.5-x64' so you don't have to download it via the conference wifi: <code>vagrant box add alphainternational/centos-6.5-x64</code></li>
+</ul>
+<h1 id="presentation">presentation</h1>
+<ul>
+<li>Slides: https://github.com/bertvv/vagrant-presentation</li>
+<li>Demo/Example: https://github.com/bertvv/vagrant-example</li>
 </ul>
 <h1 id="bio">bio</h1>
 <p>Bert Van Vreckem - <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#98;&#101;&#114;&#116;&#46;&#118;&#97;&#110;&#118;&#114;&#101;&#99;&#107;&#101;&#109;&#64;&#104;&#111;&#103;&#101;&#110;&#116;&#46;&#98;&#101;">&#98;&#101;&#114;&#116;&#46;&#118;&#97;&#110;&#118;&#114;&#101;&#99;&#107;&#101;&#109;&#64;&#104;&#111;&#103;&#101;&#110;&#116;&#46;&#98;&#101;</a>, <a href="https://twitter.com/bertvanvreckem">@bertvanvreckem</a></p>
